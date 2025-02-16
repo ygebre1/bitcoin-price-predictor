@@ -5,7 +5,7 @@
 This project aims to build a machine learning model to predict Bitcoin prices using historical price data and Wikipedia edits data. The goal is to combine financial data with sentiment analysis from Wikipedia to create a comprehensive dataset for analysis and prediction. The project provides real-time sentiment analysis and predictive modeling using Jupyter notebooks. It consists of two primary notebooks:
 
 1. **`sentiments_live.ipynb`** - Performs live sentiment analysis on input data, leveraging NLP techniques.
-2. **`predictions_live.ipynb`** - Generates predictions using machine learning models, analyzing trends and insights.
+2. **`prediction_live.ipynb`** - Generates predictions using machine learning models, analyzing trends and insights.
 
 ## 📊 Data Sources
 
